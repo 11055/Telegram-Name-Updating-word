@@ -2,7 +2,7 @@
 
 Update (first/last/user) name of Telegram user every 20 seconds. 
 
-firstname 显示随机歌词，lastname显示昵称+当前时间
+firstname 显示随机考研单词5500，lastname显示昵称+当前时间
 
 参考文档：<a href="https://telethon.readthedocs.io/en/stable/">Telethon</a>
 
